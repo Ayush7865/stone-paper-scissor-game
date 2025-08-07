@@ -28,7 +28,7 @@ A simple and responsive Rock-Paper-Scissors game built using HTML, *CSS, and **J
 ## 🚀 How to Run Locally
 
 1. Clone the repository:
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/Ayush7865/rock-paper-scissors.git
 cd rock-paper-scissors
 
 text
