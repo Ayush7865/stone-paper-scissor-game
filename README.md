@@ -74,7 +74,7 @@ text
 ## 👨‍💻 Author
 
 *Ayush Kumar Jha*  
-[LinkedIn]([www.linkedin.com/in/ayush-kumar-jha21]) • [GitHub]([your-github-url](https://github.com/Ayush7865))  
+[LinkedIn]([www.linkedin.com/in/ayush-kumar-jha21]) • [GitHub]([your-github-url](https://github.com/Ayush7865])  
 
 ---
 
