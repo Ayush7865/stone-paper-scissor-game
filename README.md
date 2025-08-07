@@ -29,7 +29,6 @@ A simple and responsive Stone-Paper-Scissor game built using HTML, *CSS, and **J
 
 1. Clone the repository:
 git clone https://github.com/Ayush7865/stone-paper-scissor-game.git
-
 cd rock-paper-scissors
 
 text
