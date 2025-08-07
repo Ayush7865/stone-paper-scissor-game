@@ -48,7 +48,7 @@ rock-paper-scissors/
 ├── index.html # Main HTML file
 ├── style.css # Stylesheet
 ├── script.js # Game logic
-└── assets/ # (Optional) Images, icons, etc.
+└── assets/ # Images, icons, etc.
 
 ---
 
