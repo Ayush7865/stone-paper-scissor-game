@@ -50,8 +50,6 @@ rock-paper-scissors/
 ├── script.js # Game logic
 └── assets/ # (Optional) Images, icons, etc.
 
-text
-
 ---
 
 ## 📸 Screenshots
