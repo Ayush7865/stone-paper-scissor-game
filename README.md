@@ -73,8 +73,8 @@ text
 
 ## 👨‍💻 Author
 
-*Ayush Kumar Jha*  
-[LinkedIn]([www.linkedin.com/in/ayush-kumar-jha21]) • [GitHub]([your-github-url](https://github.com/Ayush7865])  
+**Ayush Kumar Jha**  
+[LinkedIn](https://www.linkedin.com/in/ayush-kumar-jha21) • [GitHub](https://github.com/Ayush7865)
 
 ---
 
