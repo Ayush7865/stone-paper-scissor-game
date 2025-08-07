@@ -31,7 +31,6 @@ A simple and responsive Stone-Paper-Scissor game built using HTML, *CSS, and **J
 git clone https://github.com/Ayush7865/stone-paper-scissor-game.git
 cd rock-paper-scissors
 
-text
 2. Open index.html in your browser:
 - You can double-click the file, or  
 - For a better experience, use a local development server like [live-server](https://www.npmjs.com/package/live-server) or Python HTTP server:
