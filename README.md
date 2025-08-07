@@ -1,8 +1,8 @@
-# 🪨 Rock-Paper-Scissors Game
+# 🪨 Stone-Paper-Scissor Game
 
 🎮 Live Demo: [Play Now](https://stone-paper-scissor-game-rose.vercel.app)
 
-A simple and responsive Rock-Paper-Scissors game built using HTML, *CSS, and **JavaScript*. The player competes against the computer, with outcomes determined by standard rules. Designed for an intuitive and fun user experience on all devices.
+A simple and responsive Stone-Paper-Scissor game built using HTML, *CSS, and **JavaScript*. The player competes against the computer, with outcomes determined by standard rules. Designed for an intuitive and fun user experience on all devices.
 
 ---
 
@@ -29,6 +29,7 @@ A simple and responsive Rock-Paper-Scissors game built using HTML, *CSS, and **J
 
 1. Clone the repository:
 git clone https://github.com/Ayush7865/stone-paper-scissor-game.git
+
 cd rock-paper-scissors
 
 text
